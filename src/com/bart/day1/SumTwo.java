@@ -23,6 +23,13 @@ public class SumTwo {
     }
 
 
+    /**
+     * Find sum for three
+     * @param A
+     * @param arr_size
+     * @param sum
+     * @return
+     */
     boolean find3Numbers(int A[], int arr_size, int sum)
     {
         int l, r;
